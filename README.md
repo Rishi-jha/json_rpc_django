@@ -1,7 +1,7 @@
 Django JSON-RPC
 ===============
 
-[![PyPI version](https://badge.fury.io/py/json_rpc_django.svg)](https://pypi.org/project/json-rpc-django/)
+[![PyPI version](https://badge.fury.io/py/json-rpc-django.svg)](http://badge.fury.io/py/django_json_rpc)
 
 A basic JSON-RPC Implementation for your Django-powered sites.
 
