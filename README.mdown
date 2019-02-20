@@ -44,7 +44,7 @@ The basic API:
       (r'^json/(?P<method>[a-zA-Z0-9.]+)$', jsonrpc_site.dispatch) # for HTTP GET only, also omissible
     )
 
-
+**Work in progress: Appreciate Help**
 **To test your service:**
 You can test your service using the provided graphical browser and console,
 available at http://YOUR_URL/json/browse/ (if using the url patterns from above) or with the included ServiceProxy:
@@ -68,8 +68,8 @@ Guide
 
 #### 1. Install django-json-rpc
 
-    git clone git://github.com/samuraisam/django-json-rpc.git
-    cd django-json-rpc
+    git clone git://github.com/Rishi-Jha/json_rpc_django.git
+    cd json_rpc_django
     python setup.py install
 
     # Add 'jsonrpc' to your INSTALLED_APPS in your settings.py file

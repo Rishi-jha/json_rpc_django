@@ -13,12 +13,12 @@ setup(
     name="json-rpc-django",
     version="1.0.0",
     description=("A simple JSON-RPC implementation for Django. An extension of " 
-                 "django-json-rpc by Samuel Sutch"),
+                 "django-json-rpc by Samuel Sutch for python 3"),
     author="Rishikesh Jha",
     author_email="rishijha424@gmail.com",
     license="MIT",
     url="https://github.com/Rishi-jha/django-json-rpc",
-    download_url="https://github.com/Rishi-jha/django-json-rpc",
+    download_url="https://github.com/Rishi-jha/json_rpc_django/archive/1.0.0.tar.gz",
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Environment :: Web Environment', 'Intended Audience :: Developers',
