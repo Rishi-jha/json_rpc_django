@@ -1,7 +1,7 @@
 Django JSON-RPC
 ===============
 
-[![PyPI version](https://badge.fury.io/py/json_rpc_django.svg)](http://badge.fury.io/py/json_rpc_django)
+[![PyPI version](https://badge.fury.io/py/json-rpc-django.svg)](http://badge.fury.io/py/django_json_rpc)
 
 A basic JSON-RPC Implementation for your Django-powered sites.
 
@@ -9,7 +9,7 @@ Features:
 
 * Simple, pythonic API</li>
 * Support for Django authentication</li>
-* Support for all official [Django Python/Version](https://docs.djangoproject.com/en/1.8/faq/install/#what-python-version-can-i-use-with-django) combinations</li>
+* Support for all official [Django Python/Version](https://docs.djangoproject.com/en/2.1/faq/install/#what-python-version-can-i-use-with-django) combinations</li>
 * Supports JSON-RPC 1.0, 1.1, 1.2 and 2.0 Spec
 * Proxy to test your JSON Service
 * Run-time type checking
