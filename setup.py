@@ -18,7 +18,7 @@ setup(
     author_email="rishijha424@gmail.com",
     license="MIT",
     url="https://github.com/Rishi-jha/django-json-rpc",
-    download_url="https://github.com/Rishi-jha/json_rpc_django/archive/1.0.0.tar.gz",
+    download_url="https://github.com/Rishi-jha/json_rpc_django/archive/1.0.1.tar.gz",
     classifiers=[
         'Development Status :: 5 - Production/Stable',
         'Environment :: Web Environment', 'Intended Audience :: Developers',
